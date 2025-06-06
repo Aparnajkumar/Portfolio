@@ -1,0 +1,69 @@
+.portfolio{
+    background-color:darkslategrey;
+    color: white;
+}
+#navbar{
+    
+     padding: 20px;
+
+}
+.nav-item a{
+    font-size: 20px;
+    color: white;
+    font-weight: 800;
+    text-decoration: none;
+   
+}
+.nav-item a:hover{
+    color: rgb(243, 176, 6);
+}
+#profile h2{
+    color:coral;
+}
+#profile a{
+    background-color: coral;
+    padding: 10px;
+    margin-left: 50px;
+}
+#about h2{
+    
+}
+
+#skills button{
+    margin: 9px;
+    background-color: darkslategrey;
+    color: cornsilk;
+    padding: 18px;
+}
+#projects{
+
+}
+.card img{
+    height:300px
+}
+
+#contact a{
+    justify-content: center;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+#contact a:hover{
+
+animation: shake 1s;
+}
+@keyframes shake{
+
+    25%{
+transform: rotate(-20deg);
+    }
+    35%{
+transform: rotate(20deg);
+    }
+    45%{
+transform: rotate(-20deg);
+    }
+    50%{
+transform: rotate(20deg);
+    }
+}
