@@ -38,6 +38,13 @@
 #projects{
 
 }
+.card{
+    border: 4px solid goldenrod;
+    
+}
+.card-body{
+    background-color: lightslategray;
+}
 .card img{
     height:300px
 }
