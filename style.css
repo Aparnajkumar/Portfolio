@@ -18,25 +18,30 @@
     color: rgb(243, 176, 6);
 }
 #profile h2{
-    color:coral;
+    color:rgb(218, 133, 103);
 }
 #profile a{
-    background-color: coral;
+    background-color: rgb(182, 80, 43);
     padding: 8px;
     margin-left: 50px;
 }
+/* #profile h4{
+    color: goldenrod;
+} */
 #about h2{
-    
+    color:  rgb(218, 133, 103);
 }
-
+#skills h2{
+    color:  rgb(218, 133, 103);
+}
 #skills button{
     margin: 9px;
     background-color: darkslategrey;
     color: cornsilk;
     padding: 18px;
 }
-#projects{
-
+#projects h2{
+color:  rgb(218, 133, 103);
 }
 .card{
     border: 4px solid goldenrod;
@@ -48,7 +53,9 @@
 .card img{
     height:200px
 }
-
+#contact h2{
+    color:  rgb(218, 133, 103);
+}
 #contact a{
     justify-content: center;
     color: white;
