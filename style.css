@@ -20,22 +20,30 @@
 *{
   font-family: "Roboto Condensed", sans-serif;
 
-
-
-
+}
+body p{
+    font-size: 20px;
 }
 body h2{
     font-weight: 700;
-    color:orchid;
+    color:rgb(255, 184, 76);
+}
+#profile img:hover{
+    animation: big 1s;
+}
+@keyframes big{
+25%{transform:scale(.7)
+}
 }
 
 #profile a{
-    background-color:goldenrod;
+    background-color:rgb(61, 220, 151
+    );
     padding: 5px;
     margin-left: 50px;
 }
- #profile h4{
-    color:orchid;
+ #profile h3{
+    color:rgb(224,224,224);
 } 
 /* #about h2{
     color:  cornsilk;
@@ -48,6 +56,10 @@ body h2{
     background-color: darkslategrey;
     color: cornsilk;
     padding: 18px;
+    
+}
+#skills button:hover{
+animation :shake 1s;
 }
 /* #projects h2{
 color:  cornsilk;
