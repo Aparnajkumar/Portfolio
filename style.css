@@ -29,10 +29,10 @@
     color: goldenrod;
 } */
 #about h2{
-    color:  rgb(218, 133, 103);
+    color:  cornsilk;
 }
 #skills h2{
-    color:  rgb(218, 133, 103);
+    color:  cornsilk;
 }
 #skills button{
     margin: 9px;
@@ -41,7 +41,7 @@
     padding: 18px;
 }
 #projects h2{
-color:  rgb(218, 133, 103);
+color:  cornsilk;
 }
 .card{
     border: 4px solid goldenrod;
@@ -54,7 +54,7 @@ color:  rgb(218, 133, 103);
     height:200px
 }
 #contact h2{
-    color:  rgb(218, 133, 103);
+    color:  cornsilk;
 }
 #contact a{
     justify-content: center;
