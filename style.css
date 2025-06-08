@@ -17,45 +17,54 @@
 .nav-item a:hover{
     color: rgb(243, 176, 6);
 }
-#profile h2{
-    color:rgb(218, 133, 103);
+*{
+  font-family: "Roboto Condensed", sans-serif;
+
+
+
+
 }
+body h2{
+    font-weight: 700;
+    color:orchid;
+}
+
 #profile a{
-    background-color: rgb(185, 158, 50);
+    background-color:goldenrod;
     padding: 5px;
-    margin-left: 30px;
+    margin-left: 50px;
 }
-/* #profile h4{
-    color: goldenrod;
+ #profile h4{
+    color:orchid;
+} 
+/* #about h2{
+    color:  cornsilk;
 } */
-#about h2{
+/* #skills h2{
     color:  cornsilk;
-}
-#skills h2{
-    color:  cornsilk;
-}
+} */
 #skills button{
     margin: 9px;
     background-color: darkslategrey;
     color: cornsilk;
     padding: 18px;
 }
-#projects h2{
+/* #projects h2{
 color:  cornsilk;
-}
-.card{
-    border: 4px solid goldenrod;
+} */
+/* .card{
+    border: 4px solid goldenrod; */
     
-}
+/* } */
 .card-body{
     background-color: lightslategray;
 }
 .card img{
     height:200px
 }
-#contact h2{
+/* #contact h2{
     color:  cornsilk;
-}
+} */
 #contact a{
     justify-content: center;
     color: white;
